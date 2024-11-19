@@ -445,6 +445,7 @@ h3 {
   padding-inline: 20px;
   outline: none;
   resize: none;
+  color: var(--text-color-second);
 }
 .form-btn>.btn{
   display: flex;
